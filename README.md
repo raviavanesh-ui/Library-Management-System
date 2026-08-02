@@ -1,7 +1,7 @@
 Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225240018
+# Name: Avanesh.R
+# Date:02-08-2026
 
 
 # AIM:
@@ -122,7 +122,8 @@ Describe the steps performed in a UML use case.
 
 
 # SEQUENCE DIAGRAM
-![Uploading Screenshot 2026-07-31 115728.png…]()
+<img width="680" height="804" alt="Screenshot 2026-07-31 115728" src="https://github.com/user-attachments/assets/6a5fcbc3-6faf-4330-ae89-d567523edef8" />
+
 
 
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
