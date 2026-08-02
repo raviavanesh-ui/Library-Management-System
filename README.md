@@ -1,4 +1,4 @@
-<img width="1037" height="854" alt="Screenshot 2026-07-31 112819" src="https://github.com/user-attachments/assets/4f9540da-c6ac-45b5-a04e-d4045f7fc70b" /># Library-Management-System
+Library-Management-System
 # Reg No:
 # Name:
 # Date:
